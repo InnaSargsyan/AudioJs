@@ -32,7 +32,7 @@ var data = {
 
 
 var song = new Audio()
-var currentSong = 5
+var currentSong = 6
 
 
 window.onload = function () {
